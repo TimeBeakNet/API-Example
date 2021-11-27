@@ -21,10 +21,6 @@ app.get('/hello', (req, res) => {
 // Listen on port
 app.listen(PORT, () => console.log(`Server started on port ${PORT}`))
 
-app.get('/', (req, res) => {
-    res.sendFile(__dirname + "/index.html");
-});
-
 app.listen(3000, () => {
     console.log('API Online');
 });
