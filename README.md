@@ -1,6 +1,5 @@
 # API-Example
 An example of how to create an API with Node.js
-# CyberDoge Website
 
 CyberDoge is an API that can be mostly used for Discord. [here](https://api.cyberdoge.ga/).
 
