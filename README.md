@@ -15,4 +15,4 @@ For any issues, you can contact **Niden#6677** via Discord or ask for help in th
 ## License
 
 Copyright (C) 2021 Niden and contributors</br>
-See [`LICENSE`](https://github.com/CyberDogeBot/website/blob/main/LICENSE) for more information.
+See [`LICENSE`](https://github.com/my-universal-network/API-Example/blob/main/LICENSE) for more information.
