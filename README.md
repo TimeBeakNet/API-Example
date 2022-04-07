@@ -1,4 +1,5 @@
 # API-Example
+
 An example of how to create an API with Node.js
 
 CyberDoge is an API that can be mostly used for Discord. [here](https://api.cyberdoge.ga/).
@@ -6,7 +7,7 @@ CyberDoge is an API that can be mostly used for Discord. [here](https://api.cybe
 ## Support
 
  - [Discord](https://discord.homes/cyberdoge-support)
- - [GitHub](https://github.com/CyberDogeBot)
+ - [GitHub](https://github.com/my-universal-network)
 
 ## Contact
 
