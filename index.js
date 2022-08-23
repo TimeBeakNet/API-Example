@@ -28,7 +28,7 @@ app.get('/hello', (req, res) => {
 
 app.get('/cats', (req, res) => {
     res.send({
-        jpg: "https://cdn.cyberdoge.ga/cats/" + 'cat%20' + '(' + Math.floor(Math.random() * 153) + ')' + ".jpg", jpeg: "https://cdn.cyberdoge.ga/cats/" + 'cat%20' + '(' + Math.floor(Math.random() * 37) + ')' + ".jpeg"
+        jpg: "https://cdn.universal-network.xyz/cats/" + 'cat%20' + '(' + Math.floor(Math.random() * 153) + ')' + ".jpg", jpeg: "https://cdn.universal-network.xyz/cats/" + 'cat%20' + '(' + Math.floor(Math.random() * 37) + ')' + ".jpeg"
     });
 });
 
